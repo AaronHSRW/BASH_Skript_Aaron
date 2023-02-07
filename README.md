@@ -1,3 +1,4 @@
+## Das ist ein Libbrary Carpentry Workshop-Projekt
 # Mein erstes Git-Repositorium
 Hier liegt mein Bash-Skript
 
